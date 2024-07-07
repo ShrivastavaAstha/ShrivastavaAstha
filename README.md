@@ -30,6 +30,7 @@
   
    <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="GitHub" width="40" height="40"/> </a>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySql" width="40" height="40"/> </a>
+    <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="Figma" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Canva.svg" alt="canva" width="40" height="40"/> </a> </p>
 
  
