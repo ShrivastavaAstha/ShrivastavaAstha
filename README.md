@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **anything as I am passionate about technology.**
 
-- 📫 How to reach me **Reach me through LinkedIn https://www.linkedin.com/in/astha-61b27a257/**
+- 📫 How to reach me, **you can reach me through Email: astha2333@gmail.com or via LinkedIn https://www.linkedin.com/in/astha-61b27a257/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
